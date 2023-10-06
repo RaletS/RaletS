@@ -1,6 +1,6 @@
  # Olá!  👋
 
-Meu nome é Rafael atualmente estudo programação Backend, e aqui compartilho meus conhecimento adquirido e projetos.
+Meu nome é Rafael atualmente estudo programação Backend utilizando a linguagen JavaScript, e aqui compartilho meus conhecimento adquirido e projetos.
 
 ## Minhas Redes Sociais:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white])](https://www.linkedin.com/in/rafael-de-jesus-a84ab3127) 	👈
