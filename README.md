@@ -4,7 +4,7 @@ Meu nome é Rafael atualmente estudo programação Backend utilizando a linguage
 
 ## Minhas Redes Sociais:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white])](https://www.linkedin.com/in/rafael-de-jesus-a84ab3127) 	👈  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael_ralet/) 	👈
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white])](https://www.linkedin.com/in/rafael-de-jesus-a84ab3127) 	👈  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael_ralet/) 	👈 https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white 👈 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@rafah3449)
 
 ## 
 <div style="display: inline_block"><br>
